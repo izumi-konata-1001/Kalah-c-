@@ -1,0 +1,14 @@
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/bin/Debug/net8.0/KALAH
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/bin/Debug/net8.0/KALAH.deps.json
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/bin/Debug/net8.0/KALAH.runtimeconfig.json
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/bin/Debug/net8.0/KALAH.dll
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/bin/Debug/net8.0/KALAH.pdb
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/obj/Debug/net8.0/KALAH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/obj/Debug/net8.0/KALAH.AssemblyInfoInputs.cache
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/obj/Debug/net8.0/KALAH.AssemblyInfo.cs
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/obj/Debug/net8.0/KALAH.csproj.CoreCompileInputs.cache
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/obj/Debug/net8.0/KALAH.dll
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/obj/Debug/net8.0/refint/KALAH.dll
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/obj/Debug/net8.0/KALAH.pdb
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/obj/Debug/net8.0/KALAH.genruntimeconfig.cache
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/obj/Debug/net8.0/ref/KALAH.dll
