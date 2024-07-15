@@ -286,8 +286,6 @@ namespace Kalah
         {
             Store currentPlayerStore = currentPlayer.getStore();
             int currentPlayerStoreIndex = currentPlayerStore.getIndex();
-            Console.WriteLine("current store: " + currentPlayerStoreIndex);
-            Console.WriteLine("target store: " + targetHouseIndex);
             if (targetHouseIndex == currentPlayerStoreIndex)
                 return true;
             return false;

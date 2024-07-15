@@ -12,3 +12,4 @@
 /Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/obj/Debug/net8.0/KALAH.pdb
 /Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/obj/Debug/net8.0/KALAH.genruntimeconfig.cache
 /Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/obj/Debug/net8.0/ref/KALAH.dll
+/Users/maotianyouyouxiang/Desktop/github-repository/Kalah-c-/KALAH/obj/Debug/net8.0/KALAH.sourcelink.json

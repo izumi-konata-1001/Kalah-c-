@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KALAH")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2540c279ebc21d84c47867319efd7082ca1dce2")]
 [assembly: System.Reflection.AssemblyProductAttribute("KALAH")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KALAH")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
